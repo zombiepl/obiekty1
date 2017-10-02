@@ -1,0 +1,16 @@
+C:\Users\GKasztelaniec\source\repos\kamerka3\kamerka3\bin\Debug\kamerka3.exe.config
+C:\Users\GKasztelaniec\source\repos\kamerka3\kamerka3\bin\Debug\kamerka3.exe
+C:\Users\GKasztelaniec\source\repos\kamerka3\kamerka3\bin\Debug\kamerka3.pdb
+C:\Users\GKasztelaniec\source\repos\kamerka3\kamerka3\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\GKasztelaniec\source\repos\kamerka3\kamerka3\bin\Debug\AForge.Video.dll
+C:\Users\GKasztelaniec\source\repos\kamerka3\kamerka3\bin\Debug\AForge.dll
+C:\Users\GKasztelaniec\source\repos\kamerka3\kamerka3\bin\Debug\AForge.Video.xml
+C:\Users\GKasztelaniec\source\repos\kamerka3\kamerka3\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\GKasztelaniec\source\repos\kamerka3\kamerka3\bin\Debug\AForge.xml
+C:\Users\GKasztelaniec\source\repos\kamerka3\kamerka3\obj\Debug\kamerka3.csprojResolveAssemblyReference.cache
+C:\Users\GKasztelaniec\source\repos\kamerka3\kamerka3\obj\Debug\kamerka3.Form1.resources
+C:\Users\GKasztelaniec\source\repos\kamerka3\kamerka3\obj\Debug\kamerka3.Properties.Resources.resources
+C:\Users\GKasztelaniec\source\repos\kamerka3\kamerka3\obj\Debug\kamerka3.csproj.GenerateResource.Cache
+C:\Users\GKasztelaniec\source\repos\kamerka3\kamerka3\obj\Debug\kamerka3.csproj.CoreCompileInputs.cache
+C:\Users\GKasztelaniec\source\repos\kamerka3\kamerka3\obj\Debug\kamerka3.exe
+C:\Users\GKasztelaniec\source\repos\kamerka3\kamerka3\obj\Debug\kamerka3.pdb
